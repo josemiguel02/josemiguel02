@@ -22,7 +22,7 @@
 
 # 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-000.svg?logo=github&logoColor=white)](https://github.com/josemiguel02) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:josemidev24@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-dominguez-perez-612238202) [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/jmdp.02)
+[![GitHub](https://img.shields.io/badge/GitHub-000.svg?logo=github&logoColor=white)](https://github.com/josemiguel02) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:josemidev24@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemidev24)
 
 <br />
 
